@@ -1,0 +1,13 @@
+*~
+*.swp
+.vscode
+*code-workspace
+.idea
+.nyc_output
+coverage
+*.tgz
+.github
+.mocharc.json
+.nycrc.json
+dist/test
+test

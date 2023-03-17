@@ -1,0 +1,9 @@
+--reporter dot
+--require test/common
+--ui bdd
+--growl
+--check-leaks
+--colors
+--require ts-node/register
+--require source-map-support/register
+--recursive
